@@ -6,6 +6,7 @@ from time import sleep
 
 def main():
     setup_pins()
+    # this is my favourite line!
     wait_for_short()
 
 
